@@ -35,9 +35,7 @@ dotenv – Environment variable management
 
  Installation & Setup
 
-Clone the repository
 
-git clone https://github.com/your-username/invoiceiq.git
 cd invoiceiq
 
 
