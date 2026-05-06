@@ -92,3 +92,9 @@ Contributions are welcome! Feel free to fork this repo, create a feature branch,
 This project is licensed under the MIT License.
 
  Built with  using Google Gemini & Streamlit
+
+
+Output of the respective project
+
+ <img width="677" height="977" alt="invoiceIQ project" src="https://github.com/user-attachments/assets/2cbfd809-72e9-4125-9c62-ad82c4f020d5" />
+
